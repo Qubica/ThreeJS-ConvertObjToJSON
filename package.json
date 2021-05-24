@@ -1,0 +1,13 @@
+{
+  "name": "parser_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node parser.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "parse-obj": "^0.0.0"
+  }
+}
